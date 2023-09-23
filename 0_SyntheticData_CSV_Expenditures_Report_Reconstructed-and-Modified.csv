@@ -1,0 +1,102 @@
+﻿ID,Payee,Date,Amount,Category,Address,Phone Number
+100 4,Adobe,2022-01-05,400,Software,,
+96 34,Adobe,2022-02-04,400,Software,,
+100 64,Adobe,2022-03-06,400,Software,,
+96 94,Adobe,2022-04-05,400,Software,,
+Hours 1,Alice Smith,2022-01-02,3000,Labor,"123 Main St, San Francisco, CA 94105",(415) 555-1234
+0 21,Alice Smith,2022-01-22,3000,Labor,"123 Main St, San Francisco, CA 94105",(415) 555-1234
+0 41,Alice Smith,2022-02-11,3000,Labor,"123 Main St, San Francisco, CA 94105",(415) 555-1234
+0 61,Alice Smith,2022-03-03,3000,Labor,"123 Main St, San Francisco, CA 94105",(415) 555-1234
+0 81,Alice Smith,2022-03-23,3000,Labor,"123 Main St, San Francisco, CA 94105",(415) 555-1234
+116 12,Amazon,2022-01-13,900,Software,,
+120 42,Amazon,2022-02-12,900,Software,,
+116 72,Amazon,2022-03-14,900,Software,,
+96 14,Apple,2022-01-15,1000,Software,,
+100 44,Apple,2022-02-14,1000,Software,,
+96 74,Apple,2022-03-16,1000,Software,,
+0 11,Bob Jones,2022-01-12,2900,Labor,"456 Pine St, Los Angeles, CA 90012",(213) 555-4567
+0 31,Bob Jones,2022-02-01,2900,Labor,"456 Pine St, Los Angeles, CA 90012",(213) 555-4567
+0 51,Bob Jones,2022-02-21,2900,Labor,"456 Pine St, Los Angeles, CA 90012",(213) 555-4567
+0 71,Bob Jones,2022-03-13,2900,Labor,"456 Pine St, Los Angeles, CA 90012",(213) 555-4567
+0 91,Bob Jones,2022-04-02,2900,Labor,"456 Pine St, Los Angeles, CA 90012",(213) 555-4567
+0 3,Charlie Lee,2022-01-04,2500,Labor,"789 Palm Ave, Miami, FL 33101",(305) 555-7890
+0 23,Charlie Lee,2022-01-24,2500,Labor,"789 Palm Ave, Miami, FL 33101",(305) 555-7890
+0 43,Charlie Lee,2022-02-13,2500,Labor,"789 Palm Ave, Miami, FL 33101",(305) 555-7890
+0 63,Charlie Lee,2022-03-05,2500,Labor,"789 Palm Ave, Miami, FL 33101",(305) 555-7890
+0 83,Charlie Lee,2022-03-25,2500,Labor,"789 Palm Ave, Miami, FL 33101",(305) 555-7890
+0 13,David Chen,2022-01-14,2400,Labor,"1011 Market St, San Francisco, CA 94103",(415) 555-1011
+0 33,David Chen,2022-02-03,2400,Labor,"1011 Market St, San Francisco, CA 94103",(415) 555-1011
+0 53,David Chen,2022-02-23,2400,Labor,"1011 Market St, San Francisco, CA 94103",(415) 555-1011
+0 73,David Chen,2022-03-15,2400,Labor,"1011 Market St, San Francisco, CA 94103",(415) 555-1011
+0 93,David Chen,2022-04-04,2400,Labor,"1011 Market St, San Francisco, CA 94103",(415) 555-1011
+0 5,Emily Green,2022-01-06,2700,Labor,"1213 Sunset Blvd, Los Angeles, CA 90026",(213) 555-1213
+0 25,Emily Green,2022-01-26,2700,Labor,"1213 Sunset Blvd, Los Angeles, CA 90026",(213) 555-1213
+0 45,Emily Green,2022-02-15,2700,Labor,"1213 Sunset Blvd, Los Angeles, CA 90026",(213) 555-1213
+0 65,Emily Green,2022-03-07,2700,Labor,"1213 Sunset Blvd, Los Angeles, CA 90026",(213) 555-1213
+0 85,Emily Green,2022-03-27,2700,Labor,"1213 Sunset Blvd, Los Angeles, CA 90026",(213) 555-1213
+0 15,Frank Wilson,2022-01-16,2500,Labor,"1415 Ocean Dr, Miami, FL 33139",(305) 555-1415
+0 35,Frank Wilson,2022-02-05,2500,Labor,"1415 Ocean Dr, Miami, FL 33139",(305) 555-1415
+0 55,Frank Wilson,2022-02-25,2500,Labor,"1415 Ocean Dr, Miami, FL 33139",(305) 555-1415
+0 75,Frank Wilson,2022-03-17,2500,Labor,"1415 Ocean Dr, Miami, FL 33139",(305) 555-1415
+0 95,Frank Wilson,2022-04-06,2500,Labor,"1415 Ocean Dr, Miami, FL 33139",(305) 555-1415
+104 10,Google,2022-01-11,800,Software,,
+112 40,Google,2022-02-10,800,Software,,
+104 70,Google,2022-03-12,800,Software,,
+112 100,Google,2022-04-11,800,Software,,
+0 9,Grace Liu,2022-01-10,2600,Labor,"1617 Mission St, San Francisco, CA 94110",(415) 555-1617
+0 29,Grace Liu,2022-01-30,2600,Labor,"1617 Mission St, San Francisco, CA 94110",(415) 555-1617
+0 49,Grace Liu,2022-02-19,2600,Labor,"1617 Mission St, San Francisco, CA 94110",(415) 555-1617
+0 69,Grace Liu,2022-03-11,2600,Labor,"1617 Mission St, San Francisco, CA 94110",(415) 555-1617
+0 89,Grace Liu,2022-03-31,2600,Labor,"1617 Mission St, San Francisco, CA 94110",(415) 555-1617
+0 19,Henry Brown,2022-01-20,2800,Labor,"1819 Hollywood Blvd, Los Angeles, CA 90028",(213) 555-1819
+0 39,Henry Brown,2022-02-09,2800,Labor,"1819 Hollywood Blvd, Los Angeles, CA 90028",(213) 555-1819
+0 59,Henry Brown,2022-03-01,2800,Labor,"1819 Hollywood Blvd, Los Angeles, CA 90028",(213) 555-1819
+0 79,Henry Brown,2022-03-21,2800,Labor,"1819 Hollywood Blvd, Los Angeles, CA 90028",(213) 555-1819
+0 99,Henry Brown,2022-04-10,2800,Labor,"1819 Hollywood Blvd, Los Angeles, CA 90028",(213) 555-1819
+100 16,Hilton,2022-01-17,200,Travel,,
+108 46,Hilton,2022-02-16,200,Travel,,
+100 76,Hilton,2022-03-18,200,Travel,,
+112 20,Hyatt,2022-01-21,400,Travel,,
+104 50,Hyatt,2022-02-20,400,Travel,,
+112 80,Hyatt,2022-03-22,400,Travel,,
+112 8,IBM,2022-01-09,700,Software,,
+108 38,IBM,2022-02-08,700,Software,,
+112 68,IBM,2022-03-10,700,Software,,
+108 98,IBM,2022-04-09,700,Software,,
+0 17,Irene Miller,2022-01-18,2700,Labor,"2021 Collins Ave, Miami, FL 33140",(305) 555-2021
+0 37,Irene Miller,2022-02-07,2700,Labor,"2021 Collins Ave, Miami, FL 33140",(305) 555-2021
+0 57,Irene Miller,2022-02-27,2700,Labor,"2021 Collins Ave, Miami, FL 33140",(305) 555-2021
+0 77,Irene Miller,2022-03-19,2700,Labor,"2021 Collins Ave, Miami, FL 33140",(305) 555-2021
+0 97,Irene Miller,2022-04-08,2700,Labor,"2021 Collins Ave, Miami, FL 33140",(305) 555-2021
+0 7,Jack Taylor,2022-01-08,2800,Labor,"2223 Lombard St, San Francisco, CA 94123",(415) 555-2223
+0 27,Jack Taylor,2022-01-28,2800,Labor,"2223 Lombard St, San Francisco, CA 94123",(415) 555-2223
+0 47,Jack Taylor,2022-02-17,2800,Labor,"2223 Lombard St, San Francisco, CA 94123",(415) 555-2223
+0 67,Jack Taylor,2022-03-09,2800,Labor,"2223 Lombard St, San Francisco, CA 94123",(415) 555-2223
+0 87,Jack Taylor,2022-03-29,2800,Labor,"2223 Lombard St, San Francisco, CA 94123",(415) 555-2223
+104 30,KFC,2022-01-31,30,Food,,
+112 60,KFC,2022-03-02,30,Food,,
+104 90,KFC,2022-04-01,30,Food,,
+108 18,Marriott,2022-01-19,300,Travel,,
+112 48,Marriott,2022-02-18,300,Travel,,
+108 78,Marriott,2022-03-20,300,Travel,,
+100 24,McDonaldâ€™s,2022-01-25,15,Food,,
+96 54,McDonaldâ€™s,2022-02-24,15,Food,,
+100 84,McDonaldâ€™s,2022-03-26,15,Food,,
+120 2,Microsoft,2022-01-03,500,Software,,
+116 32,Microsoft,2022-02-02,500,Software,,
+120 62,Microsoft,2022-03-04,500,Software,,
+116 92,Microsoft,2022-04-03,500,Software,,
+108 6,Oracle,2022-01-07,600,Software,,
+100 36,Oracle,2022-02-06,600,Software,,
+108 66,Oracle,2022-03-08,600,Software,,
+100 96,Oracle,2022-04-07,600,Software,,
+108 26,Pizza Hut,2022-01-27,20,Food,,
+100 56,Pizza Hut,2022-02-26,20,Food,,
+108 86,Pizza Hut,2022-03-28,20,Food,,
+120 22,Starbucks,2022-01-23,10,Food,,
+116 52,Starbucks,2022-02-22,10,Food,,
+120 82,Starbucks,2022-03-24,10,Food,,
+112 28,Subway,2022-01-29,25,Food,,
+108 58,Subway,2022-02-28,25,Food,,
+112 88,Subway,2022-03-30,25,Food,,
+0,,,,,,
