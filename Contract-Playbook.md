@@ -1,3 +1,6 @@
+The following is a free and open hypothetical example contract playbook.  
+____
+
 # SYNTHETIC CONTRACT PLAYBOOK EXERCISE DATA
 
 ## ACME, Inc. Contract Playbook for Widgets Procurement and Maintenance Contracts
