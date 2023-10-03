@@ -57,4 +57,3 @@ This playbook is designed to guide in-house lawyers and other stakeholders at AC
 - The playbook includes information on previous contracts, including commonly negotiated points, common problems, and how they were resolved.
 
 This playbook is a living document and will be updated regularly based on the experiences of ACME, Inc. with its contracts. All employees are encouraged to provide feedback and suggest improvements to the playbook. The playbook is a tool to assist in contract negotiations, but it is not a substitute for legal advice. Always consult with the Legal Department if you are unsure about any aspect of a contract.
-Hyper
