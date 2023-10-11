@@ -1,0 +1,40 @@
+﻿ID,Payee,Date,Amount,Category,Address,Phone Number,Estimated VAT
+100 24,McDonaldâ€™s,2022-01-25,15,Food,,,
+100 84,McDonaldâ€™s,2022-03-26,15,Food,,,
+116 12,Amazon,2022-01-13,900,Hardware,"Mages Corner, 5 Av. Anatole France, 75007 Paris, France",,20%
+120 42,Amazon,2022-02-12,900,Hardware,"Mages Corner, 5 Av. Anatole France, 75007 Paris, France",,20%
+116 72,Amazon,2022-03-14,900,Hardware,"Mages Corner, 5 Av. Anatole France, 75007 Paris, France",,20%
+96 14,Furniture Warehouse,2022-01-15,1000,Furniture,"Mages Corner, 5 Av. Anatole France, 75007 Paris, France",,
+100 44,Furniture Warehouse,2022-02-14,1000,Furniture,"Mages Corner, 5 Av. Anatole France, 75007 Paris, France",,
+96 74,Furniture Warehouse,2022-03-16,1000,Furniture,"Mages Corner, 5 Av. Anatole France, 75007 Paris, France",,
+104 10,Desktops Galore,2022-01-11,800,Hardware,"London SW1A 0AA, UK",,20%
+112 40,Desktops Galore,2022-02-10,800,Hardware,"London SW1A 0AA, UK",,20%
+112 100,Desktops Galore,2022-04-11,800,Hardware,"London SW1A 0AA, UK",,20%
+112 8,IBM Hardware,2022-01-09,700,Hardware,"Mages Corner, 5 Av. Anatole France, 75007 Paris, France",,20%
+108 38,IBM Hardware,2022-02-08,700,Hardware,"Mages Corner, 5 Av. Anatole France, 75007 Paris, France",,20%
+112 68,IBM Hardware,2022-03-10,700,Hardware,"Mages Corner, 5 Av. Anatole France, 75007 Paris, France",,20%
+108 98,IBM Hardware,2022-04-09,700,Hardware,"Mages Corner, 5 Av. Anatole France, 75007 Paris, France",,20%
+120 2,Microsoft,2022-01-03,500,Hardware,"Mages Corner, 5 Av. Anatole France, 75007 Paris, France",,20%
+116 32,Microsoft,2022-02-02,500,Hardware,"Mages Corner, 5 Av. Anatole France, 75007 Paris, France",,20%
+120 62,Microsoft,2022-03-04,500,Hardware,"Mages Corner, 5 Av. Anatole France, 75007 Paris, France",,20%
+116 92,Microsoft,2022-04-03,500,Hardware,"Mages Corner, 5 Av. Anatole France, 75007 Paris, France",,20%
+108 6,Oracle,2022-01-07,600,Hardware,"London SW1A 0AA, UK",,20%
+100 36,Oracle,2022-02-06,600,Hardware,"London SW1A 0AA, UK",,20%
+100 96,Oracle,2022-04-07,600,Hardware,"London SW1A 0AA, UK",,20%
+0 61,Alice Smith,2022-03-03,3000,Labor,"123 Main St, San Francisco, CA 94105",(415) 555-1234,
+0 81,Alice Smith,2022-03-23,3000,Labor,"123 Main St, San Francisco, CA 94105",(415) 555-1234,
+0 11,Bob Jones,2022-01-12,2900,Labor,"456 Pine St, Los Angeles, CA 90012",(213) 555-4567,
+0 65,Emily Green,2022-03-07,2700,Labor,"1213 Sunset Blvd, Los Angeles, CA 90026",(213) 555-1213,
+0 85,Emily Green,2022-03-27,2700,Labor,"1213 Sunset Blvd, Los Angeles, CA 90026",(213) 555-1213,
+0 9,Grace Liu,2022-01-10,2600,Labor,"1617 Mission St, San Francisco, CA 94110",(415) 555-1617,
+0 29,Grace Liu,2022-01-30,2600,Labor,"1617 Mission St, San Francisco, CA 94110",(415) 555-1617,
+0 17,Irene Miller,2022-01-18,2700,Labor,"2021 Collins Ave, Miami, FL 33140",(305) 555-2021,
+0 37,Irene Miller,2022-02-07,2700,Labor,"2021 Collins Ave, Miami, FL 33140",(305) 555-2021,
+100 76,Hiltonian Desktops,2022-03-18,200,Hardware,"2300 College Ave, Berkeley, CA 94704",,
+112 20,Hiltonian Desktops,2022-01-21,400,Hardware,"2300 College Ave, Berkeley, CA 94704",,
+104 50,Hyatt,2022-02-20,400,Travel,,,
+112 80,Hyatt,2022-03-22,400,Travel,,,
+112 48,Marriott,2022-02-18,300,Travel,,,
+108 78,Marriott,2022-03-20,300,Travel,,,
+,,,,,,,
+,,,,,,,
